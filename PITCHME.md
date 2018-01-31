@@ -41,7 +41,7 @@ windows mimikatz 抓取密码
 ---
 ### 发展
 
-1. bare metal -> virtual machine -> container -> serverless
+1. [https://riyazwalikar.github.io/pentestawslambda/#/](bare metal -> virtual machine -> container -> serverless)
 2. 结合机器学习的自动化鱼叉攻击和水坑攻击
 
 ---
